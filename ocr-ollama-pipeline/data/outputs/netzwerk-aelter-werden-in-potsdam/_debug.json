@@ -1,0 +1,1698 @@
+{
+  "image_path": "..\\data\\inputs\\Foto_Netzwerk Älter werden in Potsdam 1_PXL_20260909_174935695.jpg",
+  "created_at": "2026-09-12T15:11:42.097478",
+  "model_name": "qwen2.5:7b",
+  "ocr": [
+    {
+      "text": "Ein starkes Netzwerk für Sie",
+      "confidence": 0.9013303438550588,
+      "bbox": {
+        "x_min": 280.0,
+        "y_min": 155.0,
+        "x_max": 1987.0,
+        "y_max": 301.0,
+        "polygon": [
+          [
+            280.0,
+            155.0
+          ],
+          [
+            1987.0,
+            155.0
+          ],
+          [
+            1987.0,
+            301.0
+          ],
+          [
+            280.0,
+            301.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Ihr Wegweiser in der Versorgungs- und",
+      "confidence": 0.938272391730687,
+      "bbox": {
+        "x_min": 466.0,
+        "y_min": 314.0,
+        "x_max": 1795.0,
+        "y_max": 428.0,
+        "polygon": [
+          [
+            466.0,
+            314.0
+          ],
+          [
+            1795.0,
+            314.0
+          ],
+          [
+            1795.0,
+            428.0
+          ],
+          [
+            466.0,
+            428.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Pflegelandschaft in Potsdam",
+      "confidence": 0.8231744792705387,
+      "bbox": {
+        "x_min": 646.0,
+        "y_min": 407.0,
+        "x_max": 1617.0,
+        "y_max": 511.0,
+        "polygon": [
+          [
+            646.0,
+            407.0
+          ],
+          [
+            1617.0,
+            407.0
+          ],
+          [
+            1617.0,
+            511.0
+          ],
+          [
+            646.0,
+            511.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Pflegestützpunkt Potsdam",
+      "confidence": 0.9988490423303636,
+      "bbox": {
+        "x_min": 1168.0,
+        "y_min": 721.0,
+        "x_max": 1720.0,
+        "y_max": 798.0,
+        "polygon": [
+          [
+            1168.0,
+            721.0
+          ],
+          [
+            1720.0,
+            721.0
+          ],
+          [
+            1720.0,
+            798.0
+          ],
+          [
+            1168.0,
+            798.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Beratung und Lotsenfunktion rund um die Pflege",
+      "confidence": 0.6446841554475882,
+      "bbox": {
+        "x_min": 977.0,
+        "y_min": 770.0,
+        "x_max": 1915.0,
+        "y_max": 858.0,
+        "polygon": [
+          [
+            977.0,
+            770.0
+          ],
+          [
+            1915.0,
+            770.0
+          ],
+          [
+            1915.0,
+            858.0
+          ],
+          [
+            977.0,
+            858.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0331 2892213",
+      "confidence": 0.9678385776564672,
+      "bbox": {
+        "x_min": 1308.0,
+        "y_min": 834.0,
+        "x_max": 1599.0,
+        "y_max": 897.0,
+        "polygon": [
+          [
+            1308.0,
+            834.0
+          ],
+          [
+            1599.0,
+            834.0
+          ],
+          [
+            1599.0,
+            897.0
+          ],
+          [
+            1308.0,
+            897.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "in Not",
+      "confidence": 0.9999100138279974,
+      "bbox": {
+        "x_min": 878.0,
+        "y_min": 1022.0,
+        "x_max": 1015.0,
+        "y_max": 1078.0,
+        "polygon": [
+          [
+            878.0,
+            1022.0
+          ],
+          [
+            1015.0,
+            1022.0
+          ],
+          [
+            1015.0,
+            1078.0
+          ],
+          [
+            878.0,
+            1078.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Brandenburg",
+      "confidence": 0.9999962619282701,
+      "bbox": {
+        "x_min": 1009.0,
+        "y_min": 1017.0,
+        "x_max": 1297.0,
+        "y_max": 1097.0,
+        "polygon": [
+          [
+            1009.0,
+            1017.0
+          ],
+          [
+            1297.0,
+            1017.0
+          ],
+          [
+            1297.0,
+            1097.0
+          ],
+          [
+            1009.0,
+            1097.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Konflikte klären",
+      "confidence": 0.8345136739161279,
+      "bbox": {
+        "x_min": 862.0,
+        "y_min": 1074.0,
+        "x_max": 1172.0,
+        "y_max": 1141.0,
+        "polygon": [
+          [
+            862.0,
+            1074.0
+          ],
+          [
+            1172.0,
+            1074.0
+          ],
+          [
+            1172.0,
+            1141.0
+          ],
+          [
+            862.0,
+            1141.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0800 2655566",
+      "confidence": 0.9261132206401825,
+      "bbox": {
+        "x_min": 867.0,
+        "y_min": 1132.0,
+        "x_max": 1159.0,
+        "y_max": 1194.0,
+        "polygon": [
+          [
+            867.0,
+            1132.0
+          ],
+          [
+            1159.0,
+            1132.0
+          ],
+          [
+            1159.0,
+            1194.0
+          ],
+          [
+            867.0,
+            1194.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Kontakt- und Beratungsstelle",
+      "confidence": 0.9115849719109584,
+      "bbox": {
+        "x_min": 968.0,
+        "y_min": 1292.0,
+        "x_max": 1589.0,
+        "y_max": 1405.0,
+        "polygon": [
+          [
+            968.0,
+            1292.0
+          ],
+          [
+            1589.0,
+            1292.0
+          ],
+          [
+            1589.0,
+            1405.0
+          ],
+          [
+            968.0,
+            1405.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Begleiten; Entlasten",
+      "confidence": 0.9567640268639662,
+      "bbox": {
+        "x_min": 1250.0,
+        "y_min": 1371.0,
+        "x_max": 1651.0,
+        "y_max": 1458.0,
+        "polygon": [
+          [
+            1250.0,
+            1371.0
+          ],
+          [
+            1651.0,
+            1371.0
+          ],
+          [
+            1651.0,
+            1458.0
+          ],
+          [
+            1250.0,
+            1458.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Volkssolidarität 0331 6207781",
+      "confidence": 0.8711951667343091,
+      "bbox": {
+        "x_min": 1063.0,
+        "y_min": 1410.0,
+        "x_max": 1654.0,
+        "y_max": 1511.0,
+        "polygon": [
+          [
+            1063.0,
+            1410.0
+          ],
+          [
+            1654.0,
+            1410.0
+          ],
+          [
+            1654.0,
+            1511.0
+          ],
+          [
+            1063.0,
+            1511.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Hospiz- und Palliativberatungsdienst Potsdam",
+      "confidence": 0.6969888555226036,
+      "bbox": {
+        "x_min": 576.0,
+        "y_min": 1638.0,
+        "x_max": 1532.0,
+        "y_max": 1706.0,
+        "polygon": [
+          [
+            576.0,
+            1638.0
+          ],
+          [
+            1532.0,
+            1638.0
+          ],
+          [
+            1532.0,
+            1706.0
+          ],
+          [
+            576.0,
+            1706.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Begleitung und Unterstützung bei schwerer Krankheit und Trauer",
+      "confidence": 0.9942817657295296,
+      "bbox": {
+        "x_min": 430.0,
+        "y_min": 1688.0,
+        "x_max": 1678.0,
+        "y_max": 1761.0,
+        "polygon": [
+          [
+            430.0,
+            1688.0
+          ],
+          [
+            1678.0,
+            1688.0
+          ],
+          [
+            1678.0,
+            1761.0
+          ],
+          [
+            430.0,
+            1761.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0331 6200250 oder 0173 8808589",
+      "confidence": 0.8513217017112417,
+      "bbox": {
+        "x_min": 720.0,
+        "y_min": 1753.0,
+        "x_max": 1390.0,
+        "y_max": 1805.0,
+        "polygon": [
+          [
+            720.0,
+            1753.0
+          ],
+          [
+            1390.0,
+            1753.0
+          ],
+          [
+            1390.0,
+            1805.0
+          ],
+          [
+            720.0,
+            1805.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Caritas Betreuungsverein Potsdam",
+      "confidence": 0.8910714164759168,
+      "bbox": {
+        "x_min": 732.0,
+        "y_min": 1960.0,
+        "x_max": 1454.0,
+        "y_max": 2024.0,
+        "polygon": [
+          [
+            732.0,
+            1960.0
+          ],
+          [
+            1454.0,
+            1960.0
+          ],
+          [
+            1454.0,
+            2024.0
+          ],
+          [
+            732.0,
+            2024.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Vorgesorgt für alle Fälle",
+      "confidence": 0.9822068727958565,
+      "bbox": {
+        "x_min": 864.0,
+        "y_min": 2014.0,
+        "x_max": 1324.0,
+        "y_max": 2074.0,
+        "polygon": [
+          [
+            864.0,
+            2014.0
+          ],
+          [
+            1324.0,
+            2014.0
+          ],
+          [
+            1324.0,
+            2074.0
+          ],
+          [
+            864.0,
+            2074.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0331 29088-10/-11",
+      "confidence": 0.9995234303718725,
+      "bbox": {
+        "x_min": 909.0,
+        "y_min": 2068.0,
+        "x_max": 1273.0,
+        "y_max": 2123.0,
+        "polygon": [
+          [
+            909.0,
+            2068.0
+          ],
+          [
+            1273.0,
+            2068.0
+          ],
+          [
+            1273.0,
+            2123.0
+          ],
+          [
+            909.0,
+            2123.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Seniorenbeirat Potsdam",
+      "confidence": 0.9991214418673303,
+      "bbox": {
+        "x_min": 974.0,
+        "y_min": 2248.0,
+        "x_max": 1488.0,
+        "y_max": 2353.0,
+        "polygon": [
+          [
+            974.0,
+            2248.0
+          ],
+          [
+            1488.0,
+            2248.0
+          ],
+          [
+            1488.0,
+            2353.0
+          ],
+          [
+            974.0,
+            2353.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Engagiert im",
+      "confidence": 0.8800006754093537,
+      "bbox": {
+        "x_min": 1051.0,
+        "y_min": 2313.0,
+        "x_max": 1306.0,
+        "y_max": 2394.0,
+        "polygon": [
+          [
+            1051.0,
+            2313.0
+          ],
+          [
+            1306.0,
+            2313.0
+          ],
+          [
+            1306.0,
+            2394.0
+          ],
+          [
+            1051.0,
+            2394.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0331 289-439",
+      "confidence": 0.9100623485118834,
+      "bbox": {
+        "x_min": 1081.0,
+        "y_min": 2370.0,
+        "x_max": 1366.0,
+        "y_max": 2451.0,
+        "polygon": [
+          [
+            1081.0,
+            2370.0
+          ],
+          [
+            1366.0,
+            2370.0
+          ],
+          [
+            1366.0,
+            2451.0
+          ],
+          [
+            1081.0,
+            2451.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Netzwerk Älter werden in Potsdam",
+      "confidence": 0.7182768726355647,
+      "bbox": {
+        "x_min": 801.0,
+        "y_min": 2582.0,
+        "x_max": 1526.0,
+        "y_max": 2691.0,
+        "polygon": [
+          [
+            801.0,
+            2582.0
+          ],
+          [
+            1526.0,
+            2582.0
+          ],
+          [
+            1526.0,
+            2691.0
+          ],
+          [
+            801.0,
+            2691.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "'Netzwerk für alle Fragen des Alterns",
+      "confidence": 0.9195921514896129,
+      "bbox": {
+        "x_min": 919.0,
+        "y_min": 2638.0,
+        "x_max": 1633.0,
+        "y_max": 2739.0,
+        "polygon": [
+          [
+            919.0,
+            2638.0
+          ],
+          [
+            1633.0,
+            2638.0
+          ],
+          [
+            1633.0,
+            2739.0
+          ],
+          [
+            919.0,
+            2739.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Das",
+      "confidence": 0.9999933927534448,
+      "bbox": {
+        "x_min": 707.0,
+        "y_min": 2698.0,
+        "x_max": 797.0,
+        "y_max": 2747.0,
+        "polygon": [
+          [
+            707.0,
+            2698.0
+          ],
+          [
+            797.0,
+            2698.0
+          ],
+          [
+            797.0,
+            2747.0
+          ],
+          [
+            707.0,
+            2747.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "0163 6746679",
+      "confidence": 0.9998820279724083,
+      "bbox": {
+        "x_min": 1021.0,
+        "y_min": 2706.0,
+        "x_max": 1318.0,
+        "y_max": 2785.0,
+        "polygon": [
+          [
+            1021.0,
+            2706.0
+          ],
+          [
+            1318.0,
+            2706.0
+          ],
+          [
+            1318.0,
+            2785.0
+          ],
+          [
+            1021.0,
+            2785.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "432k",
+      "confidence": 0.010545903816819191,
+      "bbox": {
+        "x_min": 177.0,
+        "y_min": 2927.0,
+        "x_max": 307.0,
+        "y_max": 2953.0,
+        "polygon": [
+          [
+            177.0,
+            2927.0
+          ],
+          [
+            307.0,
+            2927.0
+          ],
+          [
+            307.0,
+            2953.0
+          ],
+          [
+            177.0,
+            2953.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Älter werden",
+      "confidence": 0.732102109469344,
+      "bbox": {
+        "x_min": 133.0,
+        "y_min": 2952.0,
+        "x_max": 307.0,
+        "y_max": 2985.0,
+        "polygon": [
+          [
+            133.0,
+            2952.0
+          ],
+          [
+            307.0,
+            2952.0
+          ],
+          [
+            307.0,
+            2985.0
+          ],
+          [
+            133.0,
+            2985.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "in Potsdam",
+      "confidence": 0.7729326587601363,
+      "bbox": {
+        "x_min": 158.0,
+        "y_min": 2987.0,
+        "x_max": 307.0,
+        "y_max": 3016.0,
+        "polygon": [
+          [
+            158.0,
+            2987.0
+          ],
+          [
+            307.0,
+            2987.0
+          ],
+          [
+            307.0,
+            3016.0
+          ],
+          [
+            158.0,
+            3016.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Pflege",
+      "confidence": 0.9999927486127799,
+      "bbox": {
+        "x_min": 732.1689460479892,
+        "y_min": 1010.0789914704267,
+        "x_max": 888.8310539520108,
+        "y_max": 1089.9210085295733,
+        "polygon": [
+          [
+            743.951362344004,
+            1010.0789914704267
+          ],
+          [
+            888.8310539520108,
+            1032.4713725422073
+          ],
+          [
+            877.048637655996,
+            1089.9210085295733
+          ],
+          [
+            732.1689460479892,
+            1067.5286274577927
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Demenz",
+      "confidence": 0.9999924079432909,
+      "bbox": {
+        "x_min": 1577.0678566378035,
+        "y_min": 1336.0697698140964,
+        "x_max": 1766.9321433621965,
+        "y_max": 1412.9302301859036,
+        "polygon": [
+          [
+            1587.0876568944764,
+            1336.0697698140964
+          ],
+          [
+            1766.9321433621965,
+            1360.10018050124
+          ],
+          [
+            1756.9123431055236,
+            1412.9302301859036
+          ],
+          [
+            1577.0678566378035,
+            1388.89981949876
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Beraten;",
+      "confidence": 0.9627692609883796,
+      "bbox": {
+        "x_min": 1076.071764556689,
+        "y_min": 1355.0719277974933,
+        "x_max": 1260.928235443311,
+        "y_max": 1430.9280722025067,
+        "polygon": [
+          [
+            1086.0737387183583,
+            1355.0719277974933
+          ],
+          [
+            1260.928235443311,
+            1379.0747840637607
+          ],
+          [
+            1250.9262612816417,
+            1430.9280722025067
+          ],
+          [
+            1076.071764556689,
+            1407.9252159362393
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Alter",
+      "confidence": 0.999973290638384,
+      "bbox": {
+        "x_min": 1297.2967073982365,
+        "y_min": 2334.0967805394007,
+        "x_max": 1409.7032926017635,
+        "y_max": 2400.9032194605993,
+        "polygon": [
+          [
+            1306.9266873708002,
+            2334.0967805394007
+          ],
+          [
+            1409.7032926017635,
+            2349.1365479618003
+          ],
+          [
+            1400.0733126291998,
+            2400.9032194605993
+          ],
+          [
+            1297.2967073982365,
+            2385.8634520381997
+          ]
+        ]
+      }
+    },
+    {
+      "text": "starke",
+      "confidence": 0.9997878068694637,
+      "bbox": {
+        "x_min": 794.2103500411844,
+        "y_min": 2682.443057653302,
+        "x_max": 927.7896499588156,
+        "y_max": 2744.556942346698,
+        "polygon": [
+          [
+            794.2103500411844,
+            2692.2731201317897
+          ],
+          [
+            926.4278951570257,
+            2682.443057653302
+          ],
+          [
+            927.7896499588156,
+            2735.7268798682103
+          ],
+          [
+            794.5721048429743,
+            2744.556942346698
+          ]
+        ]
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "id": 0,
+      "text": "Ein starkes Netzwerk für Sie",
+      "bbox": {
+        "x_min": 280.0,
+        "y_min": 155.0,
+        "x_max": 1987.0,
+        "y_max": 301.0,
+        "polygon": null
+      },
+      "word_ids": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "text": "Ihr Wegweiser in der Versorgungs- und",
+      "bbox": {
+        "x_min": 466.0,
+        "y_min": 314.0,
+        "x_max": 1795.0,
+        "y_max": 428.0,
+        "polygon": null
+      },
+      "word_ids": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Pflegelandschaft in Potsdam",
+      "bbox": {
+        "x_min": 646.0,
+        "y_min": 407.0,
+        "x_max": 1617.0,
+        "y_max": 511.0,
+        "polygon": null
+      },
+      "word_ids": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Beratung und Lotsenfunktion rund um die Pflege Pflegestützpunkt Potsdam 0331 2892213",
+      "bbox": {
+        "x_min": 977.0,
+        "y_min": 721.0,
+        "x_max": 1915.0,
+        "y_max": 897.0,
+        "polygon": null
+      },
+      "word_ids": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Pflege Konflikte klären 0800 2655566 in Not Brandenburg",
+      "bbox": {
+        "x_min": 732.1689460479892,
+        "y_min": 1010.0789914704267,
+        "x_max": 1297.0,
+        "y_max": 1194.0,
+        "polygon": null
+      },
+      "word_ids": [
+        29,
+        8,
+        9,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Kontakt- und Beratungsstelle Volkssolidarität 0331 6207781 Beraten; Begleiten; Entlasten Demenz",
+      "bbox": {
+        "x_min": 968.0,
+        "y_min": 1292.0,
+        "x_max": 1766.9321433621965,
+        "y_max": 1511.0,
+        "polygon": null
+      },
+      "word_ids": [
+        10,
+        12,
+        31,
+        11,
+        30
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Begleitung und Unterstützung bei schwerer Krankheit und Trauer Hospiz- und Palliativberatungsdienst Potsdam 0331 6200250 oder 0173 8808589",
+      "bbox": {
+        "x_min": 430.0,
+        "y_min": 1638.0,
+        "x_max": 1678.0,
+        "y_max": 1805.0,
+        "polygon": null
+      },
+      "word_ids": [
+        14,
+        13,
+        15
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Caritas Betreuungsverein Potsdam Vorgesorgt für alle Fälle 0331 29088-10/-11",
+      "bbox": {
+        "x_min": 732.0,
+        "y_min": 1960.0,
+        "x_max": 1454.0,
+        "y_max": 2123.0,
+        "polygon": null
+      },
+      "word_ids": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Seniorenbeirat Potsdam Engagiert im 0331 289-439 Alter",
+      "bbox": {
+        "x_min": 974.0,
+        "y_min": 2248.0,
+        "x_max": 1488.0,
+        "y_max": 2451.0,
+        "polygon": null
+      },
+      "word_ids": [
+        19,
+        20,
+        21,
+        32
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Das starke Netzwerk Älter werden in Potsdam 'Netzwerk für alle Fragen des Alterns 0163 6746679",
+      "bbox": {
+        "x_min": 707.0,
+        "y_min": 2582.0,
+        "x_max": 1633.0,
+        "y_max": 2785.0,
+        "polygon": null
+      },
+      "word_ids": [
+        24,
+        33,
+        22,
+        23,
+        25
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Älter werden in Potsdam 432k",
+      "bbox": {
+        "x_min": 133.0,
+        "y_min": 2927.0,
+        "x_max": 307.0,
+        "y_max": 3016.0,
+        "polygon": null
+      },
+      "word_ids": [
+        27,
+        28,
+        26
+      ]
+    }
+  ],
+  "llm_raw": {
+    "items": [
+      {
+        "title": "Pflege Konflikte klären",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "beratung",
+          "pflege",
+          "konflikte"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0800 2655566",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Not Brandenburg"
+      },
+      {
+        "title": "Kontakt- und Beratungsstelle Volkssolidarität",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "beratung",
+          "pflege",
+          "demenz"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0331 6207781",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Pflegestützpunkt Potsdam"
+      },
+      {
+        "title": "Hospiz- und Palliativberatungsdienst Potsdam",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "beratung",
+          "krankheit",
+          "trauer"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0331 6200250 oder 0173 8808589",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Pflegestützpunkt Potsdam"
+      },
+      {
+        "title": "Caritas Betreuungsverein Potsdam",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "betreuung",
+          "vorgesorgt"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0331 29088-10/-11",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Pflegestützpunkt Potsdam"
+      },
+      {
+        "title": "Seniorenbeirat Potsdam",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "beirat",
+          "alter"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0331 289-439",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Pflegestützpunkt Potsdam"
+      },
+      {
+        "title": "Netzwerk für alle Fragen des Alterns",
+        "brief_de": null,
+        "description_de": null,
+        "tags": [
+          "netzwerk",
+          "alter"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "0163 6746679",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Pflegestützpunkt Potsdam"
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Pflege Konflikte klären",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "beratung",
+        "pflege",
+        "konflikte"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0800 2655566"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Not Brandenburg"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Kontakt- und Beratungsstelle Volkssolidarität",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "beratung",
+        "pflege",
+        "demenz"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0331 6207781"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Hospiz- und Palliativberatungsdienst Potsdam",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "beratung",
+        "krankheit",
+        "trauer"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0331 6200250 oder 0173 8808589"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Caritas Betreuungsverein Potsdam",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "betreuung",
+        "vorgesorgt"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0331 29088-10/-11"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Seniorenbeirat Potsdam",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "beirat",
+        "alter"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0331 289-439"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Netzwerk für alle Fragen des Alterns",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "netzwerk",
+        "alter"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0163 6746679"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      },
+      "resubmissionDate": null
+    }
+  ],
+  "safety_flags": [
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 2892213",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0800 2655566",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 6207781",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 6200250",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0173 8808589",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 29088-10",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 289-439",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0163 6746679",
+      "source": "ocr"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0800 2655566",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 6207781",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 6200250",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0173 8808589",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 29088-10",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0331 289-439",
+      "source": "llm"
+    },
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "0163 6746679",
+      "source": "llm"
+    }
+  ],
+  "human_review_required": true,
+  "errors": [],
+  "timings": {
+    "ocr_ms": 9564.884399995208,
+    "layout_ms": 1.4216001145541668,
+    "llm_ms": 17451.397800119594,
+    "safety_ms": 1.213700044900179,
+    "total_ms": 27085.94759996049
+  }
+}

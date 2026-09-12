@@ -1,0 +1,8 @@
+# English profanity — seed list, extend as needed
+# One term per line, comments with #
+shit
+fuck
+bitch
+asshole
+bastard
+damn

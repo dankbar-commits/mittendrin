@@ -1,0 +1,2 @@
+# CSAM-adjacent terms — HARD flag, curate with legal/policy team before production.
+# Intentionally empty seed; wire up to a governed source list before use.

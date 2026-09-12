@@ -1,0 +1,4 @@
+# Hate-speech / extremist terms — hard-flag category, curate carefully.
+# Seed intentionally minimal; extend from a curated source before production use.
+white power
+14 words

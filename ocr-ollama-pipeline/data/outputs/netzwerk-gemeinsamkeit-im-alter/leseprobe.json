@@ -1,0 +1,33 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Gemeinsamkeit im Alter_1000281131",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg"
+  },
+  "lastUpdate": 1789218702,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "leseprobe": {
+      "title": "Leseprobe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Lesung von Lieblingsbüchern."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "buch",
+        "lesen",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "17.5. um 17 Uhr"
+      },
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      }
+    }
+  }
+}

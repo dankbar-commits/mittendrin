@@ -1,0 +1,209 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Gemeinsamkeit im Alter_1000281131",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg"
+  },
+  "lastUpdate": 1789218702,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "senioren-theater-cafe": {
+      "title": "Senioren-Theater-Cafe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Theateraufführung mit Senioren aus dem Publikum."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "theater",
+        "senioren",
+        "kaffeetrinken"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "17.5. um 16 Uhr"
+      },
+      "venue": {
+        "de": "Comedie-Soleil, Werder"
+      }
+    },
+    "leseprobe": {
+      "title": "Leseprobe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Lesung von Lieblingsbüchern."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "buch",
+        "lesen",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "17.5. um 17 Uhr"
+      },
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      }
+    },
+    "seniorencafe-leselust": {
+      "title": "Seniorencafe \"Leselust\"",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kaffee und Kuchen mit Lesen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "cafe",
+        "kaffee",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 4. Samstag im Monat um 15 Uhr"
+      },
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      }
+    },
+    "musikalische-erzaehltheater": {
+      "title": "Musikalische Erzähltheater",
+      "state": "suggestion",
+      "brief": {
+        "de": "Erzähltheater mit Musik."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "theater",
+        "musik",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Mittwoch von 15:30-17 Uhr"
+      },
+      "venue": {
+        "de": "Treffpunkt, Werder"
+      }
+    },
+    "senioren-kino-cafe": {
+      "title": "Senioren-Kino-Cafe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kino mit Kaffee und Kuchen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "kino",
+        "cafe",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Terminangaben per Aushang"
+      },
+      "venue": {
+        "de": "Treffpunkt, Werder"
+      }
+    },
+    "boule-spiel": {
+      "title": "Boule-Spiel",
+      "state": "suggestion",
+      "brief": {
+        "de": "Boule-Spiel vor dem Schützenhaus."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "boule",
+        "spielen",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeden 2. Samstag im Monat um 15 Uhr"
+      },
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      }
+    },
+    "boule-spiel-2": {
+      "title": "Boule-Spiel",
+      "state": "suggestion",
+      "brief": {
+        "de": "Boule-Spiel mit Mitfahrgelegenheit."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "boule",
+        "spielen",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeden 2. Samstag im Monat um 15 Uhr"
+      },
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      }
+    },
+    "walderkundung": {
+      "title": "Walderkundung",
+      "state": "suggestion",
+      "brief": {
+        "de": "Walderkundung oder Inselrundgang."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "wandern",
+        "walde",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 1. Sonntag im Monat um 10 Uhr"
+      },
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      }
+    },
+    "qi-gong": {
+      "title": "Qi-Gong",
+      "state": "suggestion",
+      "brief": {
+        "de": "Bewegungs-, Achtsamkeits- und Qi-Gongübungen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "qi-gong",
+        "bewegung",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 1. Sonntag im Monat um 10 Uhr"
+      },
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      }
+    }
+  }
+}

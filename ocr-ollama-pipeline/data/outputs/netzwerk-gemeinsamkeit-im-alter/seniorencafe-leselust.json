@@ -1,0 +1,33 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Gemeinsamkeit im Alter_1000281131",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg"
+  },
+  "lastUpdate": 1789218702,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "seniorencafe-leselust": {
+      "title": "Seniorencafe \"Leselust\"",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kaffee und Kuchen mit Lesen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "cafe",
+        "kaffee",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 4. Samstag im Monat um 15 Uhr"
+      },
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      }
+    }
+  }
+}

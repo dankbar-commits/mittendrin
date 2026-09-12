@@ -1,0 +1,30 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546",
+    "sourceUrl": "..\\data\\inputs\\Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546.jpg"
+  },
+  "lastUpdate": 1789218657,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "chor-cantamus": {
+      "title": "Chor Cantamus",
+      "state": "suggestion",
+      "brief": {
+        "de": "Chor für Senioren."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "chor",
+        "gesang",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Dienstags 09:45–11:45 Uhr"
+      }
+    }
+  }
+}

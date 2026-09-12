@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flyer-extract"
+version = "0.1.0"
+description = "Flyer/photo OCR + local-LLM entity extraction + deterministic safety flagging"
+requires-python = ">=3.11"
+readme = "README.md"
+dependencies = [
+    "easyocr>=1.7.2",
+    "ollama>=0.4.0",
+    "pydantic>=2.6",
+    "pillow>=10.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    "unidecode>=1.3",
+    "jupyterlab>=4.2",
+    "ipywidgets>=8.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "pytest-mock>=3.12"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

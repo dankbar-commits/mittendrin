@@ -1,0 +1,33 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Gemeinsamkeit im Alter_1000281131",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg"
+  },
+  "lastUpdate": 1789218702,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "walderkundung": {
+      "title": "Walderkundung",
+      "state": "suggestion",
+      "brief": {
+        "de": "Walderkundung oder Inselrundgang."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "wandern",
+        "walde",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 1. Sonntag im Monat um 10 Uhr"
+      },
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      }
+    }
+  }
+}

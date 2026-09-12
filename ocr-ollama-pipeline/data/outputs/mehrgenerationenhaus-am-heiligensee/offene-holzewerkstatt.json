@@ -1,0 +1,30 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546",
+    "sourceUrl": "..\\data\\inputs\\Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546.jpg"
+  },
+  "lastUpdate": 1789218657,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "offene-holzewerkstatt": {
+      "title": "Offene Holzewerkstatt",
+      "state": "suggestion",
+      "brief": {
+        "de": "Holzwerkstatt."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "holz",
+        "werkstatt",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Dienstags 16:00–18:00 Uhr"
+      }
+    }
+  }
+}
