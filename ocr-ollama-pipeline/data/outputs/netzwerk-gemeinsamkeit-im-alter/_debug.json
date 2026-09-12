@@ -1,0 +1,2073 @@
+{
+  "image_path": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg",
+  "created_at": "2026-09-12T15:10:57.306646",
+  "model_name": "qwen2.5:7b",
+  "ocr": [
+    {
+      "text": "ZUsammenKUNFT",
+      "confidence": 0.986811241955577,
+      "bbox": {
+        "x_min": 1203.0,
+        "y_min": 315.0,
+        "x_max": 1824.0,
+        "y_max": 403.0,
+        "polygon": [
+          [
+            1203.0,
+            315.0
+          ],
+          [
+            1824.0,
+            315.0
+          ],
+          [
+            1824.0,
+            403.0
+          ],
+          [
+            1203.0,
+            403.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Alte und neue Angebote des Netzwerkes",
+      "confidence": 0.8975712147960627,
+      "bbox": {
+        "x_min": 844.0,
+        "y_min": 405.0,
+        "x_max": 2191.0,
+        "y_max": 504.0,
+        "polygon": [
+          [
+            844.0,
+            405.0
+          ],
+          [
+            2191.0,
+            405.0
+          ],
+          [
+            2191.0,
+            504.0
+          ],
+          [
+            844.0,
+            504.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "GEMEINSAMKEIT IM ALTER",
+      "confidence": 0.9975350252170976,
+      "bbox": {
+        "x_min": 1053.0,
+        "y_min": 497.0,
+        "x_max": 1984.0,
+        "y_max": 586.0,
+        "polygon": [
+          [
+            1053.0,
+            497.0
+          ],
+          [
+            1984.0,
+            497.0
+          ],
+          [
+            1984.0,
+            586.0
+          ],
+          [
+            1053.0,
+            586.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Die nächsten Termine des Senioren-Kino-Cafes sind",
+      "confidence": 0.9721453482554004,
+      "bbox": {
+        "x_min": 725.0,
+        "y_min": 577.0,
+        "x_max": 2313.0,
+        "y_max": 682.0,
+        "polygon": [
+          [
+            725.0,
+            577.0
+          ],
+          [
+            2313.0,
+            577.0
+          ],
+          [
+            2313.0,
+            682.0
+          ],
+          [
+            725.0,
+            682.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "am 17.6., 19.8. und am 21.10.26 um 14 UHr",
+      "confidence": 0.604175694713782,
+      "bbox": {
+        "x_min": 722.0,
+        "y_min": 670.0,
+        "x_max": 2086.0,
+        "y_max": 771.0,
+        "polygon": [
+          [
+            722.0,
+            670.0
+          ],
+          [
+            2086.0,
+            670.0
+          ],
+          [
+            2086.0,
+            771.0
+          ],
+          [
+            722.0,
+            771.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "mit anschließendem Kaffeetrinken (Eintritt 8.50 €",
+      "confidence": 0.9309050679024062,
+      "bbox": {
+        "x_min": 724.0,
+        "y_min": 746.0,
+        "x_max": 2249.0,
+        "y_max": 856.0,
+        "polygon": [
+          [
+            724.0,
+            746.0
+          ],
+          [
+            2249.0,
+            746.0
+          ],
+          [
+            2249.0,
+            856.0
+          ],
+          [
+            724.0,
+            856.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "incl. Kaffee und Kuchen)",
+      "confidence": 0.6616506723535381,
+      "bbox": {
+        "x_min": 719.0,
+        "y_min": 860.0,
+        "x_max": 1479.0,
+        "y_max": 950.0,
+        "polygon": [
+          [
+            719.0,
+            860.0
+          ],
+          [
+            1479.0,
+            860.0
+          ],
+          [
+            1479.0,
+            950.0
+          ],
+          [
+            719.0,
+            950.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "4623175. Die Filme",
+      "confidence": 0.7201738323444256,
+      "bbox": {
+        "x_min": 1596.0,
+        "y_min": 841.0,
+        "x_max": 2207.0,
+        "y_max": 931.0,
+        "polygon": [
+          [
+            1596.0,
+            841.0
+          ],
+          [
+            2207.0,
+            841.0
+          ],
+          [
+            2207.0,
+            931.0
+          ],
+          [
+            1596.0,
+            931.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "werden per Aushang angegeben.",
+      "confidence": 0.9546668308557189,
+      "bbox": {
+        "x_min": 720.0,
+        "y_min": 939.0,
+        "x_max": 1740.0,
+        "y_max": 1043.0,
+        "polygon": [
+          [
+            720.0,
+            939.0
+          ],
+          [
+            1740.0,
+            939.0
+          ],
+          [
+            1740.0,
+            1043.0
+          ],
+          [
+            720.0,
+            1043.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Das",
+      "confidence": 0.964169979095459,
+      "bbox": {
+        "x_min": 724.0,
+        "y_min": 1056.0,
+        "x_max": 849.0,
+        "y_max": 1123.0,
+        "polygon": [
+          [
+            724.0,
+            1056.0
+          ],
+          [
+            849.0,
+            1056.0
+          ],
+          [
+            849.0,
+            1123.0
+          ],
+          [
+            724.0,
+            1123.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Senioren-Smartphone-Cafe findet jeden 4.",
+      "confidence": 0.8843743451010012,
+      "bbox": {
+        "x_min": 841.0,
+        "y_min": 1006.0,
+        "x_max": 2184.0,
+        "y_max": 1142.0,
+        "polygon": [
+          [
+            841.0,
+            1006.0
+          ],
+          [
+            2184.0,
+            1006.0
+          ],
+          [
+            2184.0,
+            1142.0
+          ],
+          [
+            841.0,
+            1142.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Mittwoch von 15.30-17 Uhr im Treffpunkt statt.",
+      "confidence": 0.5834861262084751,
+      "bbox": {
+        "x_min": 720.0,
+        "y_min": 1103.0,
+        "x_max": 2210.0,
+        "y_max": 1217.0,
+        "polygon": [
+          [
+            720.0,
+            1103.0
+          ],
+          [
+            2210.0,
+            1103.0
+          ],
+          [
+            2210.0,
+            1217.0
+          ],
+          [
+            720.0,
+            1217.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Seniorencafe \"Leselust\" in der Stadtbücherei. Hier",
+      "confidence": 0.7696110039625361,
+      "bbox": {
+        "x_min": 710.0,
+        "y_min": 1192.0,
+        "x_max": 2329.0,
+        "y_max": 1308.0,
+        "polygon": [
+          [
+            710.0,
+            1192.0
+          ],
+          [
+            2329.0,
+            1192.0
+          ],
+          [
+            2329.0,
+            1308.0
+          ],
+          [
+            710.0,
+            1308.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "sind lesefreudige Senioren eingeladen; ihre",
+      "confidence": 0.8237076106147054,
+      "bbox": {
+        "x_min": 706.0,
+        "y_min": 1285.0,
+        "x_max": 2077.0,
+        "y_max": 1397.0,
+        "polygon": [
+          [
+            706.0,
+            1285.0
+          ],
+          [
+            2077.0,
+            1285.0
+          ],
+          [
+            2077.0,
+            1397.0
+          ],
+          [
+            706.0,
+            1397.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Lieblingsbücher vorzustellen (gern auch mitu:30",
+      "confidence": 0.5970426872609615,
+      "bbox": {
+        "x_min": 706.0,
+        "y_min": 1377.0,
+        "x_max": 2247.0,
+        "y_max": 1499.0,
+        "polygon": [
+          [
+            706.0,
+            1377.0
+          ],
+          [
+            2247.0,
+            1377.0
+          ],
+          [
+            2247.0,
+            1499.0
+          ],
+          [
+            706.0,
+            1499.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Leseprobe). Der3. Termin ist am Asp/um 15-Uhr in",
+      "confidence": 0.3641295223950987,
+      "bbox": {
+        "x_min": 705.0,
+        "y_min": 1462.0,
+        "x_max": 2317.0,
+        "y_max": 1591.0,
+        "polygon": [
+          [
+            705.0,
+            1462.0
+          ],
+          [
+            2317.0,
+            1462.0
+          ],
+          [
+            2317.0,
+            1591.0
+          ],
+          [
+            705.0,
+            1591.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "der Stadtbücherei in Werder.",
+      "confidence": 0.8032288915286635,
+      "bbox": {
+        "x_min": 702.0,
+        "y_min": 1579.0,
+        "x_max": 1643.0,
+        "y_max": 1678.0,
+        "polygon": [
+          [
+            702.0,
+            1579.0
+          ],
+          [
+            1643.0,
+            1579.0
+          ],
+          [
+            1643.0,
+            1678.0
+          ],
+          [
+            702.0,
+            1678.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "42383 oder",
+      "confidence": 0.9999453380651746,
+      "bbox": {
+        "x_min": 1750.0,
+        "y_min": 1569.0,
+        "x_max": 2136.0,
+        "y_max": 1657.0,
+        "polygon": [
+          [
+            1750.0,
+            1569.0
+          ],
+          [
+            2136.0,
+            1569.0
+          ],
+          [
+            2136.0,
+            1657.0
+          ],
+          [
+            1750.0,
+            1657.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "stadtbibliothek-werder@t-online de:",
+      "confidence": 0.6933279296525804,
+      "bbox": {
+        "x_min": 704.0,
+        "y_min": 1666.0,
+        "x_max": 1905.0,
+        "y_max": 1771.0,
+        "polygon": [
+          [
+            704.0,
+            1666.0
+          ],
+          [
+            1905.0,
+            1666.0
+          ],
+          [
+            1905.0,
+            1771.0
+          ],
+          [
+            704.0,
+            1771.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Das ,Musikalische Erzähltheater\" eröffnet das",
+      "confidence": 0.7080010123773898,
+      "bbox": {
+        "x_min": 719.0,
+        "y_min": 1744.0,
+        "x_max": 2231.0,
+        "y_max": 1868.0,
+        "polygon": [
+          [
+            719.0,
+            1744.0
+          ],
+          [
+            2231.0,
+            1744.0
+          ],
+          [
+            2231.0,
+            1868.0
+          ],
+          [
+            719.0,
+            1868.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Senioren-Theater-Cafe in der Comedie-Soleil am",
+      "confidence": 0.8132337971303712,
+      "bbox": {
+        "x_min": 693.0,
+        "y_min": 1840.0,
+        "x_max": 2276.0,
+        "y_max": 1963.0,
+        "polygon": [
+          [
+            693.0,
+            1840.0
+          ],
+          [
+            2276.0,
+            1840.0
+          ],
+          [
+            2276.0,
+            1963.0
+          ],
+          [
+            693.0,
+            1963.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "17.5. um 16 Uhr (Kaffeetrinken), 17 Uhr",
+      "confidence": 0.7209115558115742,
+      "bbox": {
+        "x_min": 698.0,
+        "y_min": 1940.0,
+        "x_max": 1998.0,
+        "y_max": 2052.0,
+        "polygon": [
+          [
+            698.0,
+            1940.0
+          ],
+          [
+            1998.0,
+            1940.0
+          ],
+          [
+            1998.0,
+            2052.0
+          ],
+          [
+            698.0,
+            2052.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Vorstellungsbeginn. Im Mittelpunkt des",
+      "confidence": 0.8691679897949922,
+      "bbox": {
+        "x_min": 693.0,
+        "y_min": 2041.0,
+        "x_max": 1992.0,
+        "y_max": 2162.0,
+        "polygon": [
+          [
+            693.0,
+            2041.0
+          ],
+          [
+            1992.0,
+            2041.0
+          ],
+          [
+            1992.0,
+            2162.0
+          ],
+          [
+            693.0,
+            2162.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Musikalische Erzähltheaters\" stehen Geschichten",
+      "confidence": 0.7757184875458426,
+      "bbox": {
+        "x_min": 731.0,
+        "y_min": 2126.0,
+        "x_max": 2347.0,
+        "y_max": 2249.0,
+        "polygon": [
+          [
+            731.0,
+            2126.0
+          ],
+          [
+            2347.0,
+            2126.0
+          ],
+          [
+            2347.0,
+            2249.0
+          ],
+          [
+            731.0,
+            2249.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "aus dem Publikum; die in unterschiedlichen Formen",
+      "confidence": 0.7507491220876651,
+      "bbox": {
+        "x_min": 692.0,
+        "y_min": 2226.0,
+        "x_max": 2402.0,
+        "y_max": 2342.0,
+        "polygon": [
+          [
+            692.0,
+            2226.0
+          ],
+          [
+            2402.0,
+            2226.0
+          ],
+          [
+            2402.0,
+            2342.0
+          ],
+          [
+            692.0,
+            2342.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "und Rollen wertschätzend auf die Bühne gebracht",
+      "confidence": 0.9806549326738279,
+      "bbox": {
+        "x_min": 688.0,
+        "y_min": 2315.0,
+        "x_max": 2352.0,
+        "y_max": 2443.0,
+        "polygon": [
+          [
+            688.0,
+            2315.0
+          ],
+          [
+            2352.0,
+            2315.0
+          ],
+          [
+            2352.0,
+            2443.0
+          ],
+          [
+            688.0,
+            2443.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "werden mit improvisierter Musik.",
+      "confidence": 0.9795692122635331,
+      "bbox": {
+        "x_min": 690.0,
+        "y_min": 2430.0,
+        "x_max": 1801.0,
+        "y_max": 2552.0,
+        "polygon": [
+          [
+            690.0,
+            2430.0
+          ],
+          [
+            1801.0,
+            2430.0
+          ],
+          [
+            1801.0,
+            2552.0
+          ],
+          [
+            690.0,
+            2552.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "(Eintritt incl. Kaffee und Kuchen 15 €). Anmeldung",
+      "confidence": 0.7998237828688647,
+      "bbox": {
+        "x_min": 683.0,
+        "y_min": 2518.0,
+        "x_max": 2367.0,
+        "y_max": 2647.0,
+        "polygon": [
+          [
+            683.0,
+            2518.0
+          ],
+          [
+            2367.0,
+            2518.0
+          ],
+          [
+            2367.0,
+            2647.0
+          ],
+          [
+            683.0,
+            2647.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "im Theater",
+      "confidence": 0.8774305528796748,
+      "bbox": {
+        "x_min": 685.0,
+        "y_min": 2668.0,
+        "x_max": 1067.0,
+        "y_max": 2747.0,
+        "polygon": [
+          [
+            685.0,
+            2668.0
+          ],
+          [
+            1067.0,
+            2668.0
+          ],
+          [
+            1067.0,
+            2747.0
+          ],
+          [
+            685.0,
+            2747.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "547235 (Anrufbeantworter).",
+      "confidence": 0.8779642669920078,
+      "bbox": {
+        "x_min": 1175.0,
+        "y_min": 2637.0,
+        "x_max": 2132.0,
+        "y_max": 2750.0,
+        "polygon": [
+          [
+            1175.0,
+            2637.0
+          ],
+          [
+            2132.0,
+            2637.0
+          ],
+          [
+            2132.0,
+            2750.0
+          ],
+          [
+            1175.0,
+            2750.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Boule-Spiel vor dem Schützenhaus, jeden 2",
+      "confidence": 0.7829002322304373,
+      "bbox": {
+        "x_min": 679.0,
+        "y_min": 2733.0,
+        "x_max": 2162.0,
+        "y_max": 2872.0,
+        "polygon": [
+          [
+            679.0,
+            2733.0
+          ],
+          [
+            2162.0,
+            2733.0
+          ],
+          [
+            2162.0,
+            2872.0
+          ],
+          [
+            679.0,
+            2872.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Samstag im Monat um 15 Uhr. Interessierte",
+      "confidence": 0.8404595467642026,
+      "bbox": {
+        "x_min": 675.0,
+        "y_min": 2846.0,
+        "x_max": 2168.0,
+        "y_max": 2971.0,
+        "polygon": [
+          [
+            675.0,
+            2846.0
+          ],
+          [
+            2168.0,
+            2846.0
+          ],
+          [
+            2168.0,
+            2971.0
+          ],
+          [
+            675.0,
+            2971.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Männer und Frauen sind herzlich eingeladen. Wer",
+      "confidence": 0.9129072864043392,
+      "bbox": {
+        "x_min": 681.0,
+        "y_min": 2946.0,
+        "x_max": 2387.0,
+        "y_max": 3066.0,
+        "polygon": [
+          [
+            681.0,
+            2946.0
+          ],
+          [
+            2387.0,
+            2946.0
+          ],
+          [
+            2387.0,
+            3066.0
+          ],
+          [
+            681.0,
+            3066.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "eigene Kugeln hat, bitte mitbringen.",
+      "confidence": 0.8549896058712185,
+      "bbox": {
+        "x_min": 672.0,
+        "y_min": 3055.0,
+        "x_max": 1914.0,
+        "y_max": 3181.0,
+        "polygon": [
+          [
+            672.0,
+            3055.0
+          ],
+          [
+            1914.0,
+            3055.0
+          ],
+          [
+            1914.0,
+            3181.0
+          ],
+          [
+            672.0,
+            3181.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Walderkundung oder Inselrundgang mit",
+      "confidence": 0.8527967078628675,
+      "bbox": {
+        "x_min": 674.0,
+        "y_min": 3158.0,
+        "x_max": 2078.0,
+        "y_max": 3280.0,
+        "polygon": [
+          [
+            674.0,
+            3158.0
+          ],
+          [
+            2078.0,
+            3158.0
+          ],
+          [
+            2078.0,
+            3280.0
+          ],
+          [
+            674.0,
+            3280.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Bewegungs-, Achtsamkeits- und Qi- Gongübungen",
+      "confidence": 0.97459234555961,
+      "bbox": {
+        "x_min": 670.0,
+        "y_min": 3265.0,
+        "x_max": 2401.0,
+        "y_max": 3398.0,
+        "polygon": [
+          [
+            670.0,
+            3265.0
+          ],
+          [
+            2401.0,
+            3265.0
+          ],
+          [
+            2401.0,
+            3398.0
+          ],
+          [
+            670.0,
+            3398.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "an jedem 1. Sonntag im Monat um 10 Uhr. Über",
+      "confidence": 0.713966663702443,
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3364.0,
+        "x_max": 2341.0,
+        "y_max": 3501.0,
+        "polygon": [
+          [
+            667.0,
+            3364.0
+          ],
+          [
+            2341.0,
+            3364.0
+          ],
+          [
+            2341.0,
+            3501.0
+          ],
+          [
+            667.0,
+            3501.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "eine WhatsApp- Gruppe werden Treffpunkt;",
+      "confidence": 0.6531293313021139,
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3477.0,
+        "x_max": 2207.0,
+        "y_max": 3611.0,
+        "polygon": [
+          [
+            667.0,
+            3477.0
+          ],
+          [
+            2207.0,
+            3477.0
+          ],
+          [
+            2207.0,
+            3611.0
+          ],
+          [
+            667.0,
+            3611.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Mitfahrgelegenheit oder wetterbedingte",
+      "confidence": 0.9152279579628885,
+      "bbox": {
+        "x_min": 674.0,
+        "y_min": 3585.0,
+        "x_max": 2092.0,
+        "y_max": 3714.0,
+        "polygon": [
+          [
+            674.0,
+            3585.0
+          ],
+          [
+            2092.0,
+            3585.0
+          ],
+          [
+            2092.0,
+            3714.0
+          ],
+          [
+            674.0,
+            3714.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "Terminverschiebungen ausgetauscht",
+      "confidence": 0.9815389521627259,
+      "bbox": {
+        "x_min": 668.0,
+        "y_min": 3700.0,
+        "x_max": 1963.0,
+        "y_max": 3821.0,
+        "polygon": [
+          [
+            668.0,
+            3700.0
+          ],
+          [
+            1963.0,
+            3700.0
+          ],
+          [
+            1963.0,
+            3821.0
+          ],
+          [
+            668.0,
+            3821.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "015773711619 oder per Mail",
+      "confidence": 0.7767453583628958,
+      "bbox": {
+        "x_min": 785.0,
+        "y_min": 3827.0,
+        "x_max": 1812.0,
+        "y_max": 3931.0,
+        "polygon": [
+          [
+            785.0,
+            3827.0
+          ],
+          [
+            1812.0,
+            3827.0
+          ],
+          [
+            1812.0,
+            3931.0
+          ],
+          [
+            785.0,
+            3931.0
+          ]
+        ]
+      }
+    },
+    {
+      "text": "dorotheaslodowy@alice-dsl net) .",
+      "confidence": 0.6977306769361177,
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3932.0,
+        "x_max": 1828.0,
+        "y_max": 4037.0,
+        "polygon": [
+          [
+            667.0,
+            3932.0
+          ],
+          [
+            1828.0,
+            3932.0
+          ],
+          [
+            1828.0,
+            4037.0
+          ],
+          [
+            667.0,
+            4037.0
+          ]
+        ]
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "id": 0,
+      "text": "Senioren-Theater-Cafe in der Comedie-Soleil am 17.5. um 16 Uhr (Kaffeetrinken), 17 Uhr der Stadtbücherei in Werder. stadtbibliothek-werder@t-online de: Leseprobe). Der3. Termin ist am Asp/um 15-Uhr in sind lesefreudige Senioren eingeladen; ihre Lieblingsbücher vorzustellen (gern auch mitu:30 Seniorencafe \"Leselust\" in der Stadtbücherei. Hier incl. Kaffee und Kuchen) Das ,Musikalische Erzähltheater\" eröffnet das werden per Aushang angegeben. Mittwoch von 15.30-17 Uhr im Treffpunkt statt. am 17.6., 19.8. und am 21.10.26 um 14 UHr mit anschließendem Kaffeetrinken (Eintritt 8.50 € Das Die nächsten Termine des Senioren-Kino-Cafes sind Senioren-Smartphone-Cafe findet jeden 4. Alte und neue Angebote des Netzwerkes GEMEINSAMKEIT IM ALTER ZUsammenKUNFT 4623175. Die Filme 42383 oder",
+      "bbox": {
+        "x_min": 693.0,
+        "y_min": 315.0,
+        "x_max": 2329.0,
+        "y_max": 2052.0,
+        "polygon": null
+      },
+      "word_ids": [
+        20,
+        21,
+        16,
+        18,
+        15,
+        13,
+        14,
+        12,
+        6,
+        19,
+        8,
+        11,
+        4,
+        5,
+        9,
+        3,
+        10,
+        1,
+        2,
+        0,
+        7,
+        17
+      ]
+    },
+    {
+      "id": 1,
+      "text": "und Rollen wertschätzend auf die Bühne gebracht aus dem Publikum; die in unterschiedlichen Formen Vorstellungsbeginn. Im Mittelpunkt des Musikalische Erzähltheaters\" stehen Geschichten",
+      "bbox": {
+        "x_min": 688.0,
+        "y_min": 2041.0,
+        "x_max": 2402.0,
+        "y_max": 2443.0,
+        "polygon": null
+      },
+      "word_ids": [
+        25,
+        24,
+        22,
+        23
+      ]
+    },
+    {
+      "id": 2,
+      "text": "(Eintritt incl. Kaffee und Kuchen 15 €). Anmeldung werden mit improvisierter Musik.",
+      "bbox": {
+        "x_min": 683.0,
+        "y_min": 2430.0,
+        "x_max": 2367.0,
+        "y_max": 2647.0,
+        "polygon": null
+      },
+      "word_ids": [
+        27,
+        26
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Boule-Spiel vor dem Schützenhaus, jeden 2 im Theater 547235 (Anrufbeantworter).",
+      "bbox": {
+        "x_min": 679.0,
+        "y_min": 2637.0,
+        "x_max": 2162.0,
+        "y_max": 2872.0,
+        "polygon": null
+      },
+      "word_ids": [
+        30,
+        28,
+        29
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Samstag im Monat um 15 Uhr. Interessierte Männer und Frauen sind herzlich eingeladen. Wer",
+      "bbox": {
+        "x_min": 675.0,
+        "y_min": 2846.0,
+        "x_max": 2387.0,
+        "y_max": 3066.0,
+        "polygon": null
+      },
+      "word_ids": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": 5,
+      "text": "eigene Kugeln hat, bitte mitbringen. Walderkundung oder Inselrundgang mit",
+      "bbox": {
+        "x_min": 672.0,
+        "y_min": 3055.0,
+        "x_max": 2078.0,
+        "y_max": 3280.0,
+        "polygon": null
+      },
+      "word_ids": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": 6,
+      "text": "an jedem 1. Sonntag im Monat um 10 Uhr. Über Bewegungs-, Achtsamkeits- und Qi- Gongübungen",
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3265.0,
+        "x_max": 2401.0,
+        "y_max": 3501.0,
+        "polygon": null
+      },
+      "word_ids": [
+        36,
+        35
+      ]
+    },
+    {
+      "id": 7,
+      "text": "eine WhatsApp- Gruppe werden Treffpunkt;",
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3477.0,
+        "x_max": 2207.0,
+        "y_max": 3611.0,
+        "polygon": null
+      },
+      "word_ids": [
+        37
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Mitfahrgelegenheit oder wetterbedingte",
+      "bbox": {
+        "x_min": 674.0,
+        "y_min": 3585.0,
+        "x_max": 2092.0,
+        "y_max": 3714.0,
+        "polygon": null
+      },
+      "word_ids": [
+        38
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Terminverschiebungen ausgetauscht",
+      "bbox": {
+        "x_min": 668.0,
+        "y_min": 3700.0,
+        "x_max": 1963.0,
+        "y_max": 3821.0,
+        "polygon": null
+      },
+      "word_ids": [
+        39
+      ]
+    },
+    {
+      "id": 10,
+      "text": "015773711619 oder per Mail",
+      "bbox": {
+        "x_min": 785.0,
+        "y_min": 3827.0,
+        "x_max": 1812.0,
+        "y_max": 3931.0,
+        "polygon": null
+      },
+      "word_ids": [
+        40
+      ]
+    },
+    {
+      "id": 11,
+      "text": "dorotheaslodowy@alice-dsl net) .",
+      "bbox": {
+        "x_min": 667.0,
+        "y_min": 3932.0,
+        "x_max": 1828.0,
+        "y_max": 4037.0,
+        "polygon": null
+      },
+      "word_ids": [
+        41
+      ]
+    }
+  ],
+  "llm_raw": {
+    "items": [
+      {
+        "title": "Senioren-Theater-Cafe",
+        "brief_de": "Theateraufführung mit Senioren aus dem Publikum.",
+        "description_de": null,
+        "tags": [
+          "theater",
+          "senioren",
+          "kaffeetrinken"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "17.5. um 16 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Comedie-Soleil, Werder"
+      },
+      {
+        "title": "Leseprobe",
+        "brief_de": "Lesung von Lieblingsbüchern.",
+        "description_de": null,
+        "tags": [
+          "buch",
+          "lesen",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "17.5. um 17 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Stadtbücherei, Werder"
+      },
+      {
+        "title": "Seniorencafe \"Leselust\"",
+        "brief_de": "Kaffee und Kuchen mit Lesen.",
+        "description_de": null,
+        "tags": [
+          "cafe",
+          "kaffee",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Jeder 4. Samstag im Monat um 15 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Stadtbücherei, Werder"
+      },
+      {
+        "title": "Musikalische Erzähltheater",
+        "brief_de": "Erzähltheater mit Musik.",
+        "description_de": null,
+        "tags": [
+          "theater",
+          "musik",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Mittwoch von 15:30-17 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Treffpunkt, Werder"
+      },
+      {
+        "title": "Senioren-Kino-Cafe",
+        "brief_de": "Kino mit Kaffee und Kuchen.",
+        "description_de": null,
+        "tags": [
+          "kino",
+          "cafe",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Terminangaben per Aushang",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "Treffpunkt, Werder"
+      },
+      {
+        "title": "Boule-Spiel",
+        "brief_de": "Boule-Spiel vor dem Schützenhaus.",
+        "description_de": null,
+        "tags": [
+          "boule",
+          "spielen",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Jeden 2. Samstag im Monat um 15 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "vor dem Schützenhaus, Werder"
+      },
+      {
+        "title": "Boule-Spiel",
+        "brief_de": "Boule-Spiel mit Mitfahrgelegenheit.",
+        "description_de": null,
+        "tags": [
+          "boule",
+          "spielen",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Jeden 2. Samstag im Monat um 15 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "vor dem Schützenhaus, Werder"
+      },
+      {
+        "title": "Walderkundung",
+        "brief_de": "Walderkundung oder Inselrundgang.",
+        "description_de": null,
+        "tags": [
+          "wandern",
+          "walde",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Jeder 1. Sonntag im Monat um 10 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "vor dem Schützenhaus, Werder"
+      },
+      {
+        "title": "Qi-Gong",
+        "brief_de": "Bewegungs-, Achtsamkeits- und Qi-Gongübungen.",
+        "description_de": null,
+        "tags": [
+          "qi-gong",
+          "bewegung",
+          "senioren"
+        ],
+        "primaryTopic": null,
+        "location": null,
+        "address": null,
+        "zip": null,
+        "city": null,
+        "responsibleInstitution": null,
+        "sponsors": null,
+        "website": null,
+        "email": null,
+        "facebook": null,
+        "whatsapp": null,
+        "contact": null,
+        "phone": null,
+        "mobile": null,
+        "hours_de": "Jeder 1. Sonntag im Monat um 10 Uhr",
+        "accessibility_de": null,
+        "charge_de": null,
+        "venue_de": "vor dem Schützenhaus, Werder"
+      }
+    ]
+  },
+  "items": [
+    {
+      "title": "Senioren-Theater-Cafe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Theateraufführung mit Senioren aus dem Publikum."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "theater",
+        "senioren",
+        "kaffeetrinken"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "17.5. um 16 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Comedie-Soleil, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Leseprobe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Lesung von Lieblingsbüchern."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "buch",
+        "lesen",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "17.5. um 17 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Seniorencafe \"Leselust\"",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kaffee und Kuchen mit Lesen."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "cafe",
+        "kaffee",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 4. Samstag im Monat um 15 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Stadtbücherei, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Musikalische Erzähltheater",
+      "state": "suggestion",
+      "brief": {
+        "de": "Erzähltheater mit Musik."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "theater",
+        "musik",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Mittwoch von 15:30-17 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Treffpunkt, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Senioren-Kino-Cafe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kino mit Kaffee und Kuchen."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "kino",
+        "cafe",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Terminangaben per Aushang"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "Treffpunkt, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Boule-Spiel",
+      "state": "suggestion",
+      "brief": {
+        "de": "Boule-Spiel vor dem Schützenhaus."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "boule",
+        "spielen",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeden 2. Samstag im Monat um 15 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Boule-Spiel",
+      "state": "suggestion",
+      "brief": {
+        "de": "Boule-Spiel mit Mitfahrgelegenheit."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "boule",
+        "spielen",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeden 2. Samstag im Monat um 15 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Walderkundung",
+      "state": "suggestion",
+      "brief": {
+        "de": "Walderkundung oder Inselrundgang."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "wandern",
+        "walde",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 1. Sonntag im Monat um 10 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      },
+      "resubmissionDate": null
+    },
+    {
+      "title": "Qi-Gong",
+      "state": "suggestion",
+      "brief": {
+        "de": "Bewegungs-, Achtsamkeits- und Qi-Gongübungen."
+      },
+      "description": {
+        "de": ""
+      },
+      "titleAddOn": null,
+      "image": null,
+      "tags": [
+        "qi-gong",
+        "bewegung",
+        "senioren"
+      ],
+      "primaryTopic": null,
+      "location_ref": null,
+      "location": null,
+      "directions": null,
+      "address": null,
+      "zip": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null,
+      "recurring_event": null,
+      "responsibleInstitution": null,
+      "sponsors": null,
+      "website": null,
+      "email": null,
+      "facebook": null,
+      "whatsapp": null,
+      "contact": null,
+      "phone": null,
+      "mobile": null,
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Jeder 1. Sonntag im Monat um 10 Uhr"
+      },
+      "accessibility": null,
+      "charge": null,
+      "venue": {
+        "de": "vor dem Schützenhaus, Werder"
+      },
+      "resubmissionDate": null
+    }
+  ],
+  "safety_flags": [
+    {
+      "category": "pii",
+      "rule_id": "pii/phone",
+      "severity": "soft",
+      "matched_span": "015773711619",
+      "source": "ocr"
+    }
+  ],
+  "human_review_required": false,
+  "errors": [],
+  "timings": {
+    "ocr_ms": 14472.916499944404,
+    "layout_ms": 1.299399882555008,
+    "llm_ms": 30173.29839989543,
+    "safety_ms": 2.0294999703764915,
+    "total_ms": 44739.41080016084
+  }
+}

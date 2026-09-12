@@ -1,0 +1,33 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Gemeinsamkeit im Alter_1000281131",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Gemeinsamkeit im Alter_1000281131.jpg"
+  },
+  "lastUpdate": 1789218702,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "senioren-kino-cafe": {
+      "title": "Senioren-Kino-Cafe",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kino mit Kaffee und Kuchen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "kino",
+        "cafe",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/phone: '015773711619'",
+      "hours": {
+        "de": "Terminangaben per Aushang"
+      },
+      "venue": {
+        "de": "Treffpunkt, Werder"
+      }
+    }
+  }
+}

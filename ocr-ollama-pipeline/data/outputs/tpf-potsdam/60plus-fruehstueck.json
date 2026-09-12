@@ -1,0 +1,33 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_TPF_Potsdam_PXL_20240913_114911561",
+    "sourceUrl": "..\\data\\inputs\\Foto_TPF_Potsdam_PXL_20240913_114911561.jpg"
+  },
+  "lastUpdate": 1789218749,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "60plus-fruehstueck": {
+      "title": "60PLUS - FRÜHSTÜCK",
+      "state": "suggestion",
+      "brief": {
+        "de": "Frühstück für Senioren."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "frühstück",
+        "senioren",
+        "treffen"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'treffpunkt@gmx.de'",
+      "hours": {
+        "de": "Donnerstag, den 26.September 2024, 9:30 - 11:30 Uhr"
+      },
+      "venue": {
+        "de": "Treffpunkt Freizeit, Generationen Haus Mehr Miteinander Fureinander, Familien Land Brandenburg zentrum"
+      }
+    }
+  }
+}

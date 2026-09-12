@@ -1,0 +1,32 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Netzwerk Älter werden in Potsdam 1_PXL_20260909_174935695",
+    "sourceUrl": "..\\data\\inputs\\Foto_Netzwerk Älter werden in Potsdam 1_PXL_20260909_174935695.jpg"
+  },
+  "lastUpdate": 1789218729,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "netzwerk-fuer-alle-fragen-des-alterns": {
+      "title": "Netzwerk für alle Fragen des Alterns",
+      "state": "suggestion",
+      "brief": {
+        "de": ""
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "netzwerk",
+        "alter"
+      ],
+      "editingNote": "HUMAN REVIEW REQUIRED\n[flag/soft/pii/ocr] pii/phone: '0331 2892213'\n[flag/soft/pii/ocr] pii/phone: '0800 2655566'\n[flag/soft/pii/ocr] pii/phone: '0331 6207781'\n[flag/soft/pii/ocr] pii/phone: '0331 6200250'\n[flag/soft/pii/ocr] pii/phone: '0173 8808589'\n[flag/soft/pii/ocr] pii/phone: '0331 29088-10'\n[flag/soft/pii/ocr] pii/phone: '0331 289-439'\n[flag/soft/pii/ocr] pii/phone: '0163 6746679'\n[flag/soft/pii/llm] pii/phone: '0800 2655566'\n[flag/soft/pii/llm] pii/phone: '0331 6207781'\n[flag/soft/pii/llm] pii/phone: '0331 6200250'\n[flag/soft/pii/llm] pii/phone: '0173 8808589'\n[flag/soft/pii/llm] pii/phone: '0331 29088-10'\n[flag/soft/pii/llm] pii/phone: '0331 289-439'\n[flag/soft/pii/llm] pii/phone: '0163 6746679'",
+      "hours": {
+        "de": "0163 6746679"
+      },
+      "venue": {
+        "de": "Pflegestützpunkt Potsdam"
+      }
+    }
+  }
+}

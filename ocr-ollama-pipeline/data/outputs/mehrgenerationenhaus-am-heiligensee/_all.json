@@ -1,0 +1,163 @@
+{
+  "adapter": {
+    "name": "flyer-extract",
+    "sourceName": "Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546",
+    "sourceUrl": "..\\data\\inputs\\Foto_Mehrgenerationenhaus am Heiligensee_PXL_20240913_114824546.jpg"
+  },
+  "lastUpdate": 1789218657,
+  "version": "0.1.0",
+  "itemsRecord": {
+    "chor-cantamus": {
+      "title": "Chor Cantamus",
+      "state": "suggestion",
+      "brief": {
+        "de": "Chor für Senioren."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "chor",
+        "gesang",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Dienstags 09:45–11:45 Uhr"
+      }
+    },
+    "65-plus-tanz": {
+      "title": "65 Plus Tanz",
+      "state": "suggestion",
+      "brief": {
+        "de": "Tanzkurs für Senioren."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "tanz",
+        "bewegung",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Montags, Donnerstags, und 2x jährlich"
+      }
+    },
+    "tanzcafe-fuer-menschen-mit-demenz": {
+      "title": "Tanzcafe für Menschen mit Demenz",
+      "state": "suggestion",
+      "brief": {
+        "de": "Tanzkurs für Menschen mit Demenz und ihre Angehörigen."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "tanz",
+        "bewegung",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Termin auf Nachfrage, 2x jährlich"
+      }
+    },
+    "kreativtreff-am-vormittag": {
+      "title": "Kreativtreff am Vormittag",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kreativtreffen am Vormittag."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "kreativität",
+        "tage",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Jeden 1. und 3. Donnerstag 09:30–11:30 Uhr"
+      }
+    },
+    "kreativer-nachmittag": {
+      "title": "Kreativer Nachmittag",
+      "state": "suggestion",
+      "brief": {
+        "de": "Kreativtreffen am Nachmittag."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "kreativität",
+        "tage",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Jeden 4. Donnerstag 15:00–17:00 Uhr"
+      }
+    },
+    "encaustic-heisswachsmalerei": {
+      "title": "Encaustic - Heißwachsmalerei",
+      "state": "suggestion",
+      "brief": {
+        "de": "Heißwachsmalerei."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "malerei",
+        "kunst",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Jeden 2. Donnerstag 14:00–16:00 Uhr"
+      }
+    },
+    "offene-holzewerkstatt": {
+      "title": "Offene Holzewerkstatt",
+      "state": "suggestion",
+      "brief": {
+        "de": "Holzwerkstatt."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "holz",
+        "werkstatt",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Dienstags 16:00–18:00 Uhr"
+      }
+    },
+    "handarbeitscafe-zickzack": {
+      "title": "Handarbeitscafe ZickZack",
+      "state": "suggestion",
+      "brief": {
+        "de": "Handarbeitscafe."
+      },
+      "description": {
+        "de": ""
+      },
+      "tags": [
+        "handarbeiten",
+        "cafe",
+        "senioren"
+      ],
+      "editingNote": "[flag/soft/pii/ocr] pii/email: 'info@treffpunktfreizeit.de'",
+      "hours": {
+        "de": "Jeden Mittwoch 09:30–11:30 Uhr"
+      }
+    }
+  }
+}
