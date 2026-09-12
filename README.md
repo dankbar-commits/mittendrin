@@ -12,4 +12,7 @@ Output daraus: seniorenwegweiser_fo.json
 ### Prototyp zu API Requests am Beispiel von digitalpakt-alter.de (mit requests library)
 Code: api_requests_prototype.ipynb
 
-Output daraus: digitalpakt_alter_angebote_restructured.json 
+Output daraus: digitalpakt_alter_angebote_restructured.json
+
+### Prototyp zur Bild (und PDF) Konvertierung in JSON (mit LangChain)
+Code: pictures-langchain-pipeline/pipeline.py
